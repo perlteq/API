@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$dbname = 'your_database';
-$username = 'your_db_user';
-$password = 'your_db_password';
+$dbname = 'Duchex';
+$username = 'root';
+$password = '';
 
 $hashed_password = password_hash($password, PASSWORD_DEFAULT);
 
